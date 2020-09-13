@@ -1,11 +1,9 @@
 package com.as_lab.mobilephoneproject_2;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
-
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-
 import com.as_lab.mobilephoneproject_2.databinding.ActivityShowDataBinding;
 
 public class ShowData extends AppCompatActivity {
