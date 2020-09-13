@@ -26,6 +26,5 @@ public class ShowData extends AppCompatActivity {
         binding.tvBirthId.setText(preferences.getString("day","")+preferences.getString("month","")+preferences.getString("year",""));
         binding.tvGenderId.setText(preferences.getString("gender",""));
         binding.tvImeiId.setText(preferences.getString("imei",""));
-
     }
 }
