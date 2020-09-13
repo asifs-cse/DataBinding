@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00608A</color>
+    <color name="colorPrimaryDark">#00608A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#fcfcfc</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="normalWhite">#E8E6E6</color>
+    <color name="gray">#808080</color>
+    <color name="card_back">#A9A9A9</color>
+    <color name="black">#000000</color>
+    <color name="read">#FF0000</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="Transparent">#8c212226</color>
+    <color name="Transparent2">#00000000</color>
+    <color name="copper">#5c352c</color>
+</resources>
